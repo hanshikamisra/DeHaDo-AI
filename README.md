@@ -68,7 +68,10 @@ The script is designed to be simple to run. It will automatically process all im
 #### Step 1: Place Your Input Images
 Copy all the document images you want to process (e.g., `.jpg`, `.png`, `.bmp`) into the `data/sample_input/` directory.
 
-#### Step 2: Run the Script
+#### Step 2: Create Model Folder
+Download the model files from https://huggingface.co/Krugal/Donut-FT-BIODATA and place them in the Model folder
+
+#### Step 3: Run the Script
 1.  Navigate to the `src` directory in your terminal:
     ```bash
     cd src
